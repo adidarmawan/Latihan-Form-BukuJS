@@ -41,7 +41,6 @@ You can use the following credentials:
 
 Username	Password
 adi	123
-Adi	octavarium
 admin	admin
 🌐 Live Demo
 
